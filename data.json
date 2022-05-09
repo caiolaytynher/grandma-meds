@@ -1,0 +1,38 @@
+{
+  "fostair": {
+    "last modification": "2022-01-26 23:39:21.045597",
+    "total doses": 120,
+    "daily intake": 2,
+    "remaining doses": 99
+  },
+  "spiriva": {
+    "last modification": "2022-01-26 23:41:55.502759",
+    "total doses": 60,
+    "daily intake": 2,
+    "remaining doses": 46
+  },
+  "dozemast": {
+    "last modification": "2022-01-26 23:42:41.992211",
+    "total doses": 30,
+    "daily intake": 1,
+    "remaining doses": 23
+  },
+  "aradois": {
+    "last modification": "2022-02-05 23:25:22.092534",
+    "total doses": 30,
+    "daily intake": 1,
+    "remaining doses": 30
+  },
+  "bamifix": {
+    "last modification": "2022-02-18 17:48:33.031735",
+    "total doses": 20,
+    "daily intake": 1,
+    "remaining doses": 15
+  },
+  "epel": {
+    "last modification": "2022-02-18 17:38:50.235118",
+    "total doses": 30,
+    "daily intake": 1,
+    "remaining doses": 30
+  }
+}
